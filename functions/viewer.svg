@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="100%" height="100%" fill="white" onload="viewerCheckURL('conllu');conllusvg.view(this,'conllu')" onresize="conllusvg.rewrite('conllu')">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="100%" height="100%" style="background-color:white" onload="viewerCheckURL('conllu');conllusvg.view(this,'conllu')" onresize="conllusvg.rewrite('conllu')">
 <text id="conllu" fill="none" visibility="hidden">
 # CoNLL-U SVG Viewer by 安岡孝一, June 1, 2019.
 # text = SVGによるUniversal Dependencies可視化ツール
