@@ -1,0 +1,61 @@
+# Classical Chinese Word Lists
+
+Some word lists for help in formation of classical Chinese sentences.
+
+## Animals
+
+鳥 - niao3 - bird
+鱼 - yu2 - fish
+
+## Body Parts
+
+耳 - er3 - ear
+目 - mu4 - eye
+舌 - she2 - tongue
+身 - shen1 - body
+
+## Family Roles
+
+父 - fu4 - father
+子 - zi3 - son, child
+仲父 - zhong4fu - middle uncle
+
+## Feelings (Verbs)
+
+怨 - yuan4 - resent, hate, loathe
+
+## Foodstuffs
+
+酒 - jiu3 - grain-based alcoholic beverage
+
+## Human Places
+
+國 - guo2 - country, state, capital city
+
+## Materials
+
+水 - shui3 - water
+
+## Natural Features
+
+日 - ri4 - sun
+天 - tian1 - sky
+
+## Plants
+
+樹 - shu4 - tree
+
+## Social Roles
+
+臣 - chen2 - minister
+君 - jun1 - ruler, lord
+聖 - sheng4 - sage, wise person, saint
+士 - shi4 - knight, military officer, gentry
+
+## Times
+
+朝 - zhao1 - morning
+
+## Utensils
+
+觴 - a cup carved from the horn of an animal
