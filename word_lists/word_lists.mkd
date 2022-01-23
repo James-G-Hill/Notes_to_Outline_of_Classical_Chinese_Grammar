@@ -2,60 +2,160 @@
 
 Some word lists for help in formation of classical Chinese sentences.
 
+## Actions
+
+反 - fan3 - to revolt, to go astray
+耕 - geng1 - plow
+見 - jian4 - see
+順 - shun4 - agree with, obey
+喜 - xi3 - enjoy
+行 - xing2 - to go, to walk, to act
+循 - xun2 - follow, comply with
+言 - yan2 - speak
+衣 - yi4 - wear
+
 ## Animals
 
+鰥 - guan1 - yellowcheek fish / Elopichthys bambusa
+驥 - ji4 - fast horse (poetic)
+馬 - ma3 - horse
 鳥 - niao3 - bird
 鱼 - yu2 - fish
+
+## Animal Parts
+
+牙 - ya2 - tusk
 
 ## Body Parts
 
 耳 - er3 - ear
+孔 - kong3 - nostril
+口 - kou3 - mouth
 目 - mu4 - eye
 舌 - she2 - tongue
 身 - shen1 - body
+牙 - ya2 - tooth
+足 - zu2 - foot
+
+## Clothes
+
+衣 - yi1 - clothes
 
 ## Family Roles
 
+伯父 - bo2fu - elder uncle
+夫 - fu2 - husband
 父 - fu4 - father
-子 - zi3 - son, child
+鰥 - guan1 - old male widower
+母 - mu3 - mother
+女 - nv3 - daughter
+妻 - qi1 - wife
+嬰 - ying1 - baby, infant
 仲父 - zhong4fu - middle uncle
+子 - zi3 - son, child
 
 ## Feelings (Verbs)
 
+患 - huan4 - worry about
 怨 - yuan4 - resent, hate, loathe
+
+## Flavors
+
+甘 - gan1 - sweet
 
 ## Foodstuffs
 
 酒 - jiu3 - grain-based alcoholic beverage
+肉 - rou4 - meat
+食 - shi2 - food
+湯 - tang1 - hot / boiling water, soup
+
+## Fruits
+
+果 - guo3 - fruit
+橘 - ju2 - mandarin orange
+實 - shi2 - fruit
+桃 - tao2 - peach
+枳 - zhi3 - zhi fruit
+
+## Furniture
+
+席 - xi2 - a straw mat for sitting on
 
 ## Human Places
 
+道 - dao4 - road, path
 國 - guo2 - country, state, capital city
+里 - li3 - village, ward
+死地 - si3di4 - execution ground
+田 - tian2 - field
+邑 - yi4 - district city, county, region
+園 - yuan2 - garden
 
 ## Materials
 
 水 - shui3 - water
+土 - tu3 - earth, soil, clay
+
+## Musical Instruments
+
+鼓 - gu3 - drum
+管 - guan3 - pipe, flute
+琴 - qin2 - zither, harp
+弦 - xian2 - string of musical instrument
 
 ## Natural Features
 
 日 - ri4 - sun
+山 - shan1 - mountain, hill
 天 - tian1 - sky
+
+## Numbers
+
+白 - bai3 - one hundred
+二 - er4 - two
+千 - qian1 - one thousand
+萬 - wan4 - ten thousand
 
 ## Plants
 
+本 - ben3 - tree root
+橘 - ju2 - mandarin orange tree
+桑 - sang1 - mulberry tree
 樹 - shu4 - tree
+桃 - tao2 - peach tree
+枳 - zhi3 - zhi fruit tree
 
 ## Social Roles
 
+兵 - bing1 - troops
+伯 - bo2 - earl
 臣 - chen2 - minister
 君 - jun1 - ruler, lord
+吏 - li4 - official, clerk, policeman, guard
+卿 - qing1 - minister
 聖 - sheng4 - sage, wise person, saint
 士 - shi4 - knight, military officer, gentry
+王 - wang2 - king, prince
+左右 - zuo3you4 - retainers, courtiers
 
 ## Times
 
 朝 - zhao1 - morning
+今 - jin1 - today / now / these days
+古 - gu3 - old / ancient / former times
 
 ## Utensils
 
-觴 - a cup carved from the horn of an animal
+觴 - shang1 - a cup carved from the horn of an animal
+
+## Vehicles
+
+鴐 - jia4 - carriage
+車 - ju1 - cart, chariot, carriage
+乘 - sheng4 - four horse war chariot
+
+## Weapons
+
+兵 - bing1 - weapon
+甲 - jia3 - armour
