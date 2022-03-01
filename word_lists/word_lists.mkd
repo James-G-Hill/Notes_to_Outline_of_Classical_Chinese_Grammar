@@ -16,10 +16,12 @@ Some word lists for help in formation of classical Chinese sentences.
 
 ## Animals
 
+狄 - di2 - Reeve's pheasant (also 翟)
 鰥 - guan1 - yellowcheek fish / Elopichthys bambusa
 驥 - ji4 - fast horse (poetic)
 馬 - ma3 - horse
 鳥 - niao3 - bird
+烏 - wu1 - crow (also 於)
 鱼 - yu2 - fish
 
 ## Animal Parts
@@ -86,9 +88,11 @@ Some word lists for help in formation of classical Chinese sentences.
 
 道 - dao4 - road, path
 國 - guo2 - country, state, capital city
+井 - jing3 - well
 里 - li3 - village, ward
 死地 - si3di4 - execution ground
 田 - tian2 - field
+塗 - tu2 - road
 邑 - yi4 - district city, county, region
 園 - yuan2 - garden
 
@@ -106,6 +110,7 @@ Some word lists for help in formation of classical Chinese sentences.
 
 ## Natural Features
 
+泉 - quan2 - spring
 日 - ri4 - sun
 山 - shan1 - mountain, hill
 天 - tian1 - sky
