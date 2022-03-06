@@ -83,6 +83,12 @@ Some word lists for help in formation of classical Chinese sentences.
 
 ---
 
+## Arts
+
+樂 - yue2 - music
+
+---
+
 ## Foods
 
 ### Flavors
@@ -106,6 +112,22 @@ Some word lists for help in formation of classical Chinese sentences.
 
 ---
 
+## Law
+
+法 - fa3 - law
+
+### Crime
+
+盗 - dao4 - to rob / steal
+犯 - fan4 - commit a crime
+竊 - qie4 - do without authorisation, or steal
+
+### Punishments
+
+刖 - yue4 - penal amputation of the feet
+
+---
+
 ## Materials
 
 水 - shui3 - water
@@ -113,7 +135,14 @@ Some word lists for help in formation of classical Chinese sentences.
 
 ---
 
-## Numbers
+## Measurement
+
+## Measures
+
+里 - li3 - 300 paces pre-Tang
+軔 - ren4 - 7 or 8 feet
+
+### Numbers
 
 白 - bai3 - one hundred
 二 - er4 - two
@@ -160,6 +189,11 @@ Some word lists for help in formation of classical Chinese sentences.
 
 ## Places
 
+### Directions
+
+北 - bei3 - north
+南 - nan2 - south
+
 ### Human Places
 
 道 - dao4 - road, path
@@ -202,7 +236,10 @@ Some word lists for help in formation of classical Chinese sentences.
 ### Occupations
 
 兵 - bing1 - troops
-吏 - li4 - official, clerk, policeman, guard
+將 - jiang4 - general / commander
+吏 - li4 - official / clerk / policeman / guard
+卒 - zu2 - foot soldier
+左右 - zuo3you4 - retainers, courtiers
 
 ### Titles
 
@@ -213,12 +250,13 @@ Some word lists for help in formation of classical Chinese sentences.
 聖 - sheng4 - sage, wise person, saint
 士 - shi4 - knight, military officer, gentry
 王 - wang2 - king, prince
-左右 - zuo3you4 - retainers, courtiers
 
 ---
 
 ## Time
 
-朝 - zhao1 - morning
-今 - jin1 - today / now / these days
 古 - gu3 - old / ancient / former times
+今 - jin1 - today / now / these days
+夜 - ye4 - night
+朝 - zhao1 - morning
+
