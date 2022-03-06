@@ -118,6 +118,7 @@ Some word lists for help in formation of classical Chinese sentences.
 白 - bai3 - one hundred
 二 - er4 - two
 千 - qian1 - one thousand
+三 - san1 - three
 萬 - wan4 - ten thousand
 
 ---
@@ -129,11 +130,17 @@ Some word lists for help in formation of classical Chinese sentences.
 狄 - di2 - Reeve's pheasant (also 翟)
 鳥 - niao3 - bird
 烏 - wu1 - crow (also 於)
+鳶 - yuan1 - kites
 
 ### Fish
 
 鰥 - guan1 - yellowcheek fish / Elopichthys bambusa
 鱼 - yu2 - fish
+
+### Insects
+
+螻 - lou2 - mole crickets
+蟻 - yi3 - ants
 
 ### Mammals
 
