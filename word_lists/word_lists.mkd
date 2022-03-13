@@ -6,15 +6,18 @@ Some word lists for help in formation of classical Chinese sentences.
 
 ## Actions
 
-反 - fan3 - to revolt, to go astray
-耕 - geng1 - plow
-見 - jian4 - see
-順 - shun4 - agree with, obey
-喜 - xi3 - enjoy
-行 - xing2 - to go, to walk, to act
-循 - xun2 - follow, comply with
-言 - yan2 - speak
-衣 - yi4 - wear
+|  |  |  |
+| - | - | - 
+反 | fan3 | to revolt / to go astray
+耕 | geng1 | plow
+見 | jian4 | see
+殺 | sha1 | kill
+順 | shun4 | agree with / obey
+喜 | xi3 | enjoy
+行 | xing2 | to go / to walk / to act
+循 | xun2 | follow / comply with
+言 | yan2 | speak
+衣 | yi4 | wear
 
 ---
 
@@ -22,18 +25,22 @@ Some word lists for help in formation of classical Chinese sentences.
 
 ### Animal
 
-牙 - ya2 - tusk
+|  |  |  |
+| - | - | - 
+牙 | ya2 | tusk
 
 ### Human
 
-耳 - er3 - ear
-孔 - kong3 - nostril
-口 - kou3 - mouth
-目 - mu4 - eye
-舌 - she2 - tongue
-身 - shen1 - body
-牙 - ya2 - tooth
-足 - zu2 - foot
+|  |  |  |
+| - | - | - 
+耳 | er3 | ear
+孔 | kong3 | nostril
+口 | kou3 | mouth
+目 | mu4 | eye
+舌 | she2 | tongue
+身 | shen1 | body
+牙 | ya2 | tooth
+足 | zu2 | foot
 
 ---
 
@@ -41,51 +48,70 @@ Some word lists for help in formation of classical Chinese sentences.
 
 ### Armaments
 
-兵 - bing1 - weapon
-甲 - jia3 - armour
+|  |  |  |
+| - | - | - 
+兵 | bing1 | weapon
+甲 | jia3 | armour
 
 ### Clothes
 
-衣 - yi1 - clothes
+|  |  |  |
+| - | - | - 
+衣 | yi1 | clothes
 
 ### Furniture
 
-席 - xi2 - a straw mat for sitting on
+|  |  |  |
+| - | - | - 
+席 | xi2 | a straw mat for sitting on
 
 ### Musical Instruments
 
-鼓 - gu3 - drum
-管 - guan3 - pipe, flute
-琴 - qin2 - zither, harp
-弦 - xian2 - string of musical instrument
+|  |  |  |
+| - | - | - 
+鼓 | gu3 | drum
+管 | guan3 | pipe / flute
+琴 | qin2 | zither / harp
+弦 | xian2 | string of musical instrument
 
 ### Tools
 
-規 - gui1 - compass
-矩 - ju3 - carpenter's square
+|  |  |  |
+| - | - | - 
+規 | gui1 | compass
+矩 | ju3 | carpenter's square
 
 ### Utensils
 
-觴 - shang1 - a cup carved from the horn of an animal
+|  |  |  |
+| - | - | - 
+觴 | shang1 | a cup carved from the horn of an animal
 
 ### Vehicles
 
-鴐 - jia4 - carriage
-車 - ju1 - cart, chariot, carriage
-乘 - sheng4 - four horse war chariot
-
----
-
-## Feelings
-
-患 - huan4 - worry about
-怨 - yuan4 - resent, hate, loathe
+|  |  |  |
+| - | - | - 
+鴐 | jia4 | carriage
+車 | ju1 | cart / chariot / carriage
+乘 | sheng4 | four horse war chariot
 
 ---
 
 ## Arts
 
-樂 - yue2 - music
+|  |  |  |
+| - | - | - 
+樂 | yue2 | music
+
+---
+
+## Emotions
+
+|  |  |  |
+| - | - | - 
+憾 | han4 | regret
+患 | huan4 | worry about
+怨 | yuan4 | resent / hate / loathe
 
 ---
 
@@ -93,45 +119,61 @@ Some word lists for help in formation of classical Chinese sentences.
 
 ### Flavors
 
-甘 - gan1 - sweet
+|  |  |  |
+| - | - | - 
+甘 | gan1 | sweet
 
 ### Foodstuffs
 
-酒 - jiu3 - grain-based alcoholic beverage
-肉 - rou4 - meat
-食 - shi2 - food
-湯 - tang1 - hot / boiling water, soup
+|  |  |  |
+| - | - | - 
+酒 | jiu3 | grain|based alcoholic beverage
+麥 | mai4 | wheat / barley
+肉 | rou4 | meat
+食 | shi2 | food
+湯 | tang1 | hot / boiling water, soup
+燕麥 | yan4mai4 | wild oats
 
 ### Fruits
 
-果 - guo3 - fruit
-橘 - ju2 - mandarin orange
-實 - shi2 - fruit
-桃 - tao2 - peach
-枳 - zhi3 - zhi fruit
+|  |  |  |
+| - | - | - 
+果 | guo3 | fruit
+橘 | ju2 | mandarin orange
+實 | shi2 | fruit
+桃 | tao2 | peach
+枳 | zhi3 | zhi fruit
 
 ---
 
 ## Law
 
-法 - fa3 - law
+|  |  |  |
+| - | - | - 
+法 | fa3 | law
 
 ### Crime
 
-盗 - dao4 - to rob / steal
-犯 - fan4 - commit a crime
-竊 - qie4 - do without authorisation, or steal
+|  |  |  |
+| - | - | - 
+盗 | dao4 | to rob / steal
+犯 | fan4 | commit a crime
+竊 | qie4 | do without authorisation / steal
 
 ### Punishments
 
-刖 - yue4 - penal amputation of the feet
+|  |  |  |
+| - | - | - 
+刖 | yue4 | penal amputation of the feet
 
 ---
 
 ## Materials
 
-水 - shui3 - water
-土 - tu3 - earth, soil, clay
+|  |  |  |
+| - | - | - 
+水 | shui3 | water
+土 | tu3 | earth / soil / clay
 
 ---
 
@@ -139,16 +181,20 @@ Some word lists for help in formation of classical Chinese sentences.
 
 ## Measures
 
-里 - li3 - 300 paces pre-Tang
-軔 - ren4 - 7 or 8 feet
+|  |  |  |
+| - | - | - 
+里 | li3 | 300 paces pre-Tang
+軔 | ren4 | 7 or 8 feet
 
 ### Numbers
 
-白 - bai3 - one hundred
-二 - er4 - two
-千 - qian1 - one thousand
-三 - san1 - three
-萬 - wan4 - ten thousand
+|  |  |  |
+| - | - | - 
+白 | bai3 | one hundred
+二 | er4 | two
+千 | qian1 | one thousand
+三 | san1 | three
+萬 | wan4 | ten thousand
 
 ---
 
@@ -156,34 +202,47 @@ Some word lists for help in formation of classical Chinese sentences.
 
 ### Birds
 
-狄 - di2 - Reeve's pheasant (also 翟)
-鳥 - niao3 - bird
-烏 - wu1 - crow (also 於)
-鳶 - yuan1 - kites
+|  |  |  |
+| - | - | - 
+狄 | di2 | Reeve's pheasant (also 翟)
+鳥 | niao3 | bird
+烏 | wu1 | crow (also 於)
+燕 | yan4 | swallow / martin
+燕烏 | yan4wu1 | collared crow
+鳶 | yuan1 | kites
 
 ### Fish
 
-鰥 - guan1 - yellowcheek fish / Elopichthys bambusa
-鱼 - yu2 - fish
+|  |  |  |
+| - | - | - 
+鰥 | guan1 | yellowcheek fish / Elopichthys bambusa
+鱼 | yu2 | fish
 
 ### Insects
 
-螻 - lou2 - mole crickets
-蟻 - yi3 - ants
+|  |  |  |
+| - | - | - 
+螻 | lou2 | mole crickets
+蟻 | yi3 | ants
 
 ### Mammals
 
-驥 - ji4 - fast horse (poetic)
-馬 - ma3 - horse
+|  |  |  |
+| - | - | - 
+驥 | ji4 | fast horse (poetic)
+馬 | ma3 | horse
 
 ### Plants
 
-本 - ben3 - tree root
-橘 - ju2 - mandarin orange tree
-桑 - sang1 - mulberry tree
-樹 - shu4 - tree
-桃 - tao2 - peach tree
-枳 - zhi3 - zhi fruit tree
+|  |  |  |
+| - | - | - 
+本 | ben3 | tree root
+橘 | ju2 | mandarin orange tree
+苗 | miao | seedlings / sprouts
+桑 | sang1 | mulberry tree
+樹 | shu4 | tree
+桃 | tao2 | peach tree
+枳 | zhi3 | zhi fruit tree
 
 ---
 
@@ -191,30 +250,36 @@ Some word lists for help in formation of classical Chinese sentences.
 
 ### Directions
 
-北 - bei3 - north
-南 - nan2 - south
+|  |  |  |
+| - | - | - 
+北 | bei3 | north
+南 | nan2 | south
 
 ### Human Places
 
-道 - dao4 - road, path
-國 - guo2 - country, state, capital city
-井 - jing3 - well
-里 - li3 - village, ward
-室 - shi4 - room, house
-死地 - si3di4 - execution ground
-臺 - tai2 - tower
-堂 - tang2 - hall
-田 - tian2 - field
-塗 - tu2 - road
-邑 - yi4 - district city, county, region
-園 - yuan2 - garden
+|  |  |  |
+| - | - | - 
+道 | dao4 | road / path
+國 | guo2 | country / state / capital city
+井 | jing3 | well
+里 | li3 | village / ward
+室 | shi4 | room / house
+死地 | si3di4 | execution ground
+臺 | tai2 | tower
+堂 | tang2 | hall
+田 | tian2 | field
+塗 | tu2 | road
+邑 | yi4 | district city / county / region
+園 | yuan2 | garden
 
 ### Natural Features
 
-泉 - quan2 - spring
-日 - ri4 - sun
-山 - shan1 - mountain, hill
-天 - tian1 - sky
+|  |  |  |
+| - | - | - 
+泉 | quan2 | spring
+日 | ri4 | sun
+山 | shan1 | mountain / hill
+天 | tian1 | sky
 
 ---
 
@@ -222,41 +287,57 @@ Some word lists for help in formation of classical Chinese sentences.
 
 ### Family
 
-伯父 - bo2fu - elder uncle
-夫 - fu2 - husband
-父 - fu4 - father
-鰥 - guan1 - old male widower
-母 - mu3 - mother
-女 - nv3 - daughter
-妻 - qi1 - wife
-嬰 - ying1 - baby, infant
-仲父 - zhong4fu - middle uncle
-子 - zi3 - son, child
+|  |  |  |
+| - | - | - 
+伯父 | bo2fu | elder uncle
+夫 | fu2 | husband
+父 | fu4 | father
+鰥 | guan1 | old male widower
+母 | mu3 | mother
+女 | nv3 | daughter
+妻 | qi1 | wife
+嬰 | ying1 | baby / infant
+仲父 | zhong4fu | middle uncle
+子 | zi3 | son / child
 
 ### Occupations
 
-兵 - bing1 - troops
-將 - jiang4 - general / commander
-吏 - li4 - official / clerk / policeman / guard
-卒 - zu2 - foot soldier
-左右 - zuo3you4 - retainers, courtiers
+|  |  |  |
+| - | - | - 
+兵 | bing1 | troops
+將 | jiang4 | general / commander
+吏 | li4 | official / clerk / policeman / guard
+卒 | zu2 | foot soldier
+左右 | zuo3you4 | retainers / courtiers
 
 ### Titles
 
-伯 - bo2 - earl
-臣 - chen2 - minister
-君 - jun1 - ruler, lord
-卿 - qing1 - minister
-聖 - sheng4 - sage, wise person, saint
-士 - shi4 - knight, military officer, gentry
-王 - wang2 - king, prince
+|  |  |  |
+| - | - | - 
+伯 | bo2 | earl
+臣 | chen2 | minister
+夫人 | fu1ren2 | lady
+君 | jun1 | ruler / lord
+卿 | qing1 | minister
+聖 | sheng4 | sage / wise person / saint
+士 | shi4 | knight / military officer / gentry
+王 | wang2 | king / prince
 
 ---
 
 ## Time
 
-古 - gu3 - old / ancient / former times
-今 - jin1 - today / now / these days
-夜 - ye4 - night
-朝 - zhao1 - morning
+|  |  |  |
+| - | - | - 
+古 | gu3 | old / ancient / former times
+今 | jin1 | today / now / these days
+夜 | ye4 | night
+朝 | zhao1 | morning
 
+---
+
+## Weather
+
+|  |  |  |
+| - | - | - 
+潦 | lao3 | heavy rain / rainstorm
