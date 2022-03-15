@@ -127,7 +127,8 @@ Some word lists for help in formation of classical Chinese sentences.
 
 |  |  |  |
 | - | - | - 
-酒 | jiu3 | grain|based alcoholic beverage
+穀 | gu3 | farm crops / cereals
+酒 | jiu3 | grain-based alcoholic beverage
 麥 | mai4 | wheat / barley
 肉 | rou4 | meat
 食 | shi2 | food
@@ -205,6 +206,7 @@ Some word lists for help in formation of classical Chinese sentences.
 |  |  |  |
 | - | - | - 
 狄 | di2 | Reeve's pheasant (also 翟)
+雞 | ji1 | chicken / cock / fowl
 鳥 | niao3 | bird
 烏 | wu1 | crow (also 於)
 燕 | yan4 | swallow / martin
@@ -237,6 +239,7 @@ Some word lists for help in formation of classical Chinese sentences.
 |  |  |  |
 | - | - | - 
 本 | ben3 | tree root
+穀 | gu3 | paper mulberry tree
 橘 | ju2 | mandarin orange tree
 苗 | miao | seedlings / sprouts
 桑 | sang1 | mulberry tree
@@ -307,6 +310,7 @@ Some word lists for help in formation of classical Chinese sentences.
 兵 | bing1 | troops
 將 | jiang4 | general / commander
 吏 | li4 | official / clerk / policeman / guard
+醫 | yi1 | physician / healer
 卒 | zu2 | foot soldier
 左右 | zuo3you4 | retainers / courtiers
 
