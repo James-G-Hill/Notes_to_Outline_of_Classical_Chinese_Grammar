@@ -7,17 +7,35 @@ Some word lists for help in formation of classical Chinese sentences.
 ## Actions
 
 |  |  |  |
-| - | - | - 
+| - | - | -
 反 | fan3 | to revolt / to go astray
-耕 | geng1 | plow
-見 | jian4 | see
+驅 | qu1 | drive
 殺 | sha1 | kill
+食 | shi2 | eat
+率 | shuai4 | lead
 順 | shun4 | agree with / obey
 喜 | xi3 | enjoy
-行 | xing2 | to go / to walk / to act
+行 | xing2 | to go / to act
 循 | xun2 | follow / comply with
 言 | yan2 | speak
 衣 | yi4 | wear
+
+### Motor Skills
+
+|  |  |  |
+| - | - | -
+耕 | geng1 | plow
+行 | xing2 | to walk
+緣 | yuan2 | climb
+走 | zou3 | run
+
+### Sensing
+
+|  |  |  |
+| - | - | -
+嘗 | chang2 | taste
+見 | jian4 | see
+聞 | wen2 | hear
 
 ---
 
@@ -36,9 +54,11 @@ Some word lists for help in formation of classical Chinese sentences.
 耳 | er3 | ear
 孔 | kong3 | nostril
 口 | kou3 | mouth
+面 | mian4 | face
 目 | mu4 | eye
 舌 | she2 | tongue
 身 | shen1 | body
+首 | shou3 | head
 牙 | ya2 | tooth
 足 | zu2 | foot
 
@@ -49,7 +69,8 @@ Some word lists for help in formation of classical Chinese sentences.
 ### Armaments
 
 |  |  |  |
-| - | - | - 
+| - | - | -
+匕首 | bi3shou3 | a type of dagger
 兵 | bing1 | weapon
 甲 | jia3 | armour
 
@@ -80,11 +101,14 @@ Some word lists for help in formation of classical Chinese sentences.
 | - | - | - 
 規 | gui1 | compass
 矩 | ju3 | carpenter's square
+柯 | ke1 | axe-handle
+圖 | tu2 | map / chart
 
 ### Utensils
 
 |  |  |  |
-| - | - | - 
+| - | - | -
+匕 | bi3 | a spoon / ladle
 觴 | shang1 | a cup carved from the horn of an animal
 
 ### Vehicles
@@ -218,7 +242,7 @@ Some word lists for help in formation of classical Chinese sentences.
 |  |  |  |
 | - | - | - 
 鰥 | guan1 | yellowcheek fish / Elopichthys bambusa
-鱼 | yu2 | fish
+魚 | yu2 | fish
 
 ### Insects
 
@@ -233,6 +257,10 @@ Some word lists for help in formation of classical Chinese sentences.
 | - | - | - 
 驥 | ji4 | fast horse (poetic)
 馬 | ma3 | horse
+牛 | niu2 | bull / cattle / ox / cow
+犬 | quan3 | dog
+獸 | shou4 | 4-legged mammal
+羊 | yang2 | sheep
 
 ### Plants
 
@@ -241,7 +269,9 @@ Some word lists for help in formation of classical Chinese sentences.
 本 | ben3 | tree root
 穀 | gu3 | paper mulberry tree
 橘 | ju2 | mandarin orange tree
+柯 | ke1 | branch or stalk / schima evergreen tree
 苗 | miao | seedlings / sprouts
+木 | mu4 | tree
 桑 | sang1 | mulberry tree
 樹 | shu4 | tree
 桃 | tao2 | peach tree
@@ -261,7 +291,8 @@ Some word lists for help in formation of classical Chinese sentences.
 ### Human Places
 
 |  |  |  |
-| - | - | - 
+| - | - | -
+城 | cheng2 | wall of settlement / citadel / fort
 道 | dao4 | road / path
 國 | guo2 | country / state / capital city
 井 | jing3 | well
@@ -269,6 +300,7 @@ Some word lists for help in formation of classical Chinese sentences.
 室 | shi4 | room / house
 死地 | si3di4 | execution ground
 臺 | tai2 | tower
+壇 | tan2 | earthern platform for rituals, sacrifices & ceremonies
 堂 | tang2 | hall
 田 | tian2 | field
 塗 | tu2 | road
