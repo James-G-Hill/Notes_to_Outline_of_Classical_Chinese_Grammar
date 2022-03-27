@@ -72,7 +72,10 @@ Some word lists for help in formation of classical Chinese sentences.
 | - | - | -
 匕首 | bi3shou3 | a type of dagger
 兵 | bing1 | weapon
+斧 | fu3 | battle-axe
+戈 | ge1 | glaive, dagger-axe
 甲 | jia3 | armour
+梃 | ting3 | bamboo or wooden stick, staff, club, cudgel
 
 ### Clothes
 
@@ -98,8 +101,10 @@ Some word lists for help in formation of classical Chinese sentences.
 ### Tools
 
 |  |  |  |
-| - | - | - 
+| - | - | -
+斧 | fu3 | axe
 規 | gui1 | compass
+斤 | jin1 | axe, hatchet
 矩 | ju3 | carpenter's square
 柯 | ke1 | axe-handle
 圖 | tu2 | map / chart
@@ -219,7 +224,9 @@ Some word lists for help in formation of classical Chinese sentences.
 二 | er4 | two
 千 | qian1 | one thousand
 三 | san1 | three
+十 | shi2 | ten
 萬 | wan4 | ten thousand
+五 | wu3 | five
 
 ---
 
@@ -265,7 +272,7 @@ Some word lists for help in formation of classical Chinese sentences.
 ### Plants
 
 |  |  |  |
-| - | - | - 
+| - | - | -
 本 | ben3 | tree root
 穀 | gu3 | paper mulberry tree
 橘 | ju2 | mandarin orange tree
@@ -276,6 +283,12 @@ Some word lists for help in formation of classical Chinese sentences.
 樹 | shu4 | tree
 桃 | tao2 | peach tree
 枳 | zhi3 | zhi fruit tree
+
+### Reptiles
+
+|  |  |  |
+| - | - | -
+鼈 | bie1 | soft-shelled-turtle
 
 ---
 
@@ -310,11 +323,13 @@ Some word lists for help in formation of classical Chinese sentences.
 ### Natural Features
 
 |  |  |  |
-| - | - | - 
+| - | - | -
+林 | lin2 | forest, grove
 泉 | quan2 | spring
 日 | ri4 | sun
 山 | shan1 | mountain / hill
 天 | tian1 | sky
+星 | xing1 | star
 
 ---
 
@@ -328,9 +343,11 @@ Some word lists for help in formation of classical Chinese sentences.
 夫 | fu2 | husband
 父 | fu4 | father
 鰥 | guan1 | old male widower
+良人 | liang2ren2 | husband
 母 | mu3 | mother
 女 | nv3 | daughter
 妻 | qi1 | wife
+兄 | xiong1 | elder-brother
 嬰 | ying1 | baby / infant
 仲父 | zhong4fu | middle uncle
 子 | zi3 | son / child
