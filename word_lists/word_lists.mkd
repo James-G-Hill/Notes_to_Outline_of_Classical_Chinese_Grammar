@@ -34,7 +34,9 @@ Some word lists for help in formation of classical Chinese sentences.
 |  |  |  |
 | - | - | -
 嘗 | chang2 | taste
+觀 | guan1 | observe
 見 | jian4 | see
+聽 | ting1 | listen
 聞 | wen2 | hear
 
 ---
@@ -80,7 +82,8 @@ Some word lists for help in formation of classical Chinese sentences.
 ### Clothes
 
 |  |  |  |
-| - | - | - 
+| - | - | -
+履 | lv3 | sandal / leather shoe
 衣 | yi1 | clothes
 
 ### Furniture
@@ -92,7 +95,8 @@ Some word lists for help in formation of classical Chinese sentences.
 ### Musical Instruments
 
 |  |  |  |
-| - | - | - 
+| - | - | -
+鐸 | duo2 | handheld clapper bell used for military purpose
 鼓 | gu3 | drum
 管 | guan3 | pipe / flute
 琴 | qin2 | zither / harp
@@ -155,13 +159,15 @@ Some word lists for help in formation of classical Chinese sentences.
 ### Foodstuffs
 
 |  |  |  |
-| - | - | - 
+| - | - | -
 穀 | gu3 | farm crops / cereals
 酒 | jiu3 | grain-based alcoholic beverage
 麥 | mai4 | wheat / barley
 肉 | rou4 | meat
 食 | shi2 | food
-湯 | tang1 | hot / boiling water, soup
+菽 | shu1 | legumes / pulses
+粟 | su4 | foxtail millet / unhusked grain
+湯 | tang1 | hot, boiling water / soup
 燕麥 | yan4mai4 | wild oats
 
 ### Fruits
@@ -201,7 +207,8 @@ Some word lists for help in formation of classical Chinese sentences.
 ## Materials
 
 |  |  |  |
-| - | - | - 
+| - | - | -
+火 | huo3 | fire
 水 | shui3 | water
 土 | tu3 | earth / soil / clay
 
@@ -292,6 +299,16 @@ Some word lists for help in formation of classical Chinese sentences.
 
 ---
 
+## Perception
+
+### Color
+
+|  |  |  |
+| - | - | -
+黄 | huang2 | yellow
+
+---
+
 ## Places
 
 ### Directions
@@ -305,6 +322,7 @@ Some word lists for help in formation of classical Chinese sentences.
 
 |  |  |  |
 | - | - | -
+鄙 | bi3 | border town / Zhou unit of 500 houses
 城 | cheng2 | wall of settlement / citadel / fort
 道 | dao4 | road / path
 國 | guo2 | country / state / capital city
@@ -324,12 +342,16 @@ Some word lists for help in formation of classical Chinese sentences.
 
 |  |  |  |
 | - | - | -
-林 | lin2 | forest, grove
+地 | di4 | earth
+谷 | gu3 | valley
+河 | he2 | river / Yellow River
+林 | lin2 | forest / grove
 泉 | quan2 | spring
 日 | ri4 | sun
 山 | shan1 | mountain / hill
 天 | tian1 | sky
 星 | xing1 | star
+沼 | zhao3 | pool / pond
 
 ---
 
