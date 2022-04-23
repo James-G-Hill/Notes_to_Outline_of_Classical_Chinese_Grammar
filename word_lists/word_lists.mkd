@@ -270,11 +270,13 @@ Some word lists for help in formation of classical Chinese sentences.
 |  |  |  |
 | - | - | - 
 驥 | ji4 | fast horse (poetic)
+鹿 | lu4 | deer
 馬 | ma3 | horse
 牛 | niu2 | bull / cattle / ox / cow
 犬 | quan3 | dog
 獸 | shou4 | 4-legged mammal
 羊 | yang2 | sheep
+麀 | you1 | female deer
 
 ### Plants
 
@@ -336,6 +338,7 @@ Some word lists for help in formation of classical Chinese sentences.
 田 | tian2 | field
 塗 | tu2 | road
 邑 | yi4 | district city / county / region
+囿 | you4 | enclosed garden with animals for rulers
 園 | yuan2 | garden
 
 ### Natural Features
